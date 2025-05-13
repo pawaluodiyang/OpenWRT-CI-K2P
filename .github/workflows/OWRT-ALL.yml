@@ -32,7 +32,7 @@ jobs:
       fail-fast: false
       #max-parallel: 3
       matrix:
-        CONFIG: [ramips]
+        CONFIG: [RAMIPS]
         SOURCE: [immortalwrt/immortalwrt]
         BRANCH: [master]
 
